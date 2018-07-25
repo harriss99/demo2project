@@ -6,16 +6,3 @@ this is fourth line
 <<<<<<< HEAD
 fifth respectivly
 this is added to merge purpose
-with this we can learn to merge local to remote
-=======
-fifth line will be changed
-and sixtth also hh
-added 7th line to file
-test ssh login
->>>>>>> gitpromo
-If you have questions, please
-<<<<<<< HEAD
-open an issue
-=======
-ask your question in IRC.
->>>>>>> branch-a
